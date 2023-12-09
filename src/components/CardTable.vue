@@ -69,7 +69,6 @@ const clientsPerPanelComputed = computed(() => {
   return panelWithClients
 })
 
-
 let clientEdit = reactive({})
 let panelEdit = reactive({})
 let timeoutId: number = 0
