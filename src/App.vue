@@ -3,5 +3,9 @@
 </template>
 
 <script lang="ts" setup>
-  //
 </script>
+<style>
+body {
+  font-family: "Inter";
+}
+</style>
